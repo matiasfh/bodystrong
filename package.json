@@ -1,0 +1,10 @@
+{
+  "name": "bodystrong",
+  "version": "1.0.0",
+  "description": "BodyStrong web and mobile app",
+  "main": "index.js",
+  "repository": "git@github.com:matiasfh/bodystrong.git",
+  "author": "Matias Hernández <matiasfh@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
